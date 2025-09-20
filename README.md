@@ -31,7 +31,7 @@ Before running the application, ensure you have the following installed:
 1.  Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/anshdeep0504/Smart_cheaque/
     ```
 
 2.  Navigate to the project directory:
