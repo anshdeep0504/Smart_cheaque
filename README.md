@@ -11,6 +11,8 @@ The B2B Cheque Manager is a React-based application designed to streamline and m
 *   **Add Cheque Modal:** An intuitive modal form for adding new cheque entries.
 *   **Image Preview Modal:** Allows users to view cheque images associated with each entry.
 *   **AI Assistant:** Leverages the Google Gemini API to provide intelligent assistance with cheque processing, such as data extraction and validation.
+<img width="1890" height="1042" alt="image" src="https://github.com/user-attachments/assets/d947f65a-dfeb-4c16-9178-ef550deb307a" />
+<img width="1209" height="783" alt="image" src="https://github.com/user-attachments/assets/6815f5f1-b9f5-4fc2-aac9-59e2c29f38c4" />
 
 ## Technologies Used
 
