@@ -1,0 +1,5 @@
+{
+  "name": "B2B Cheque Manager",
+  "description": "A proof-of-concept web application to help Indian SMEs manage B2B payments via cheques, featuring a dashboard, cheque management, alerts, and an AI-powered insights assistant.",
+  "requestFramePermissions": []
+}
